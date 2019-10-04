@@ -11,3 +11,7 @@ I implemented Principal Component Analysis (PCA) with Matlab.
 2 [Principal component analysis: a review and recent developments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792409/)
 
 3 [Multivariate Statistical Analysis: Revised And Expanded](https://www.amazon.com/Multivariate-Statistical-Analysis-Statistics-Monographs/dp/0824747135)
+
+
+## How to run
+1 Run main.m
